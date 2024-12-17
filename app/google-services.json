@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380534216949",
+    "project_id": "estacionamientoarduino-92a0a",
+    "storage_bucket": "estacionamientoarduino-92a0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380534216949:android:fccb86c9bb8fef3b998dbc",
+        "android_client_info": {
+          "package_name": "com.example.estacionamientoarduino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3GrQhWahJ3YWq-m3yo7w7QdnE2IqZvsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EstacionamientoArduino</string>
+    <string name="estacionamientos_supermercado_lider">Estacionamientos Supermercado Lider</string>
+    <string name="estado">Estado: ---</string>
+</resources>
